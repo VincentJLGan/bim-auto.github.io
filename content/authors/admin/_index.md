@@ -3,7 +3,7 @@
 title: Vincent J.L. Gan
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: Vincent Gan
 
 # Full name (for SEO)
 first_name: Vincent
