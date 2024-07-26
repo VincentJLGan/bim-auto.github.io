@@ -107,7 +107,6 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -120,14 +119,26 @@ awards:
     icon: elsevier
     summary: |
       Planning scan routes with prior knowledge can improve scan data quality and completeness. This paper presents a BIM-enabled approach to optimize quadruped robot navigation for automated 3D scanning. The BIM data schema is enriched with IndoorGML, integrating building geometry with spatial data to establish an indoor navigation model describing multi-scale spatial topological networks. This navigation model, which includes an enhanced greedy algorithm, optimizes quadruped robot scanning positions and traversal sequences. The scan planning optimization outperforms existing heuristic algorithms in computational efficiency, coverage, and scan point count. The BIM-enabled approach is validated on ROS and in real-world conditions with a 3D LiDAR sensor integrated with a quadruped robot. The robotic scans achieve visible coverage of 70-90% of the structure, with a fluctuation of 0.006-0.021mm compared to traditional laser scans. The findings demonstrate robotic scans as a viable way of obtaining complete and accurate point clouds, reducing human effort in traditional scanning.
-  - title: Enhancing 3D reconstruction of textureless indoor scenes with IndoReal multi-view stereo (MVS)
-    url: https://doi.org/10.1016/j.autcon.2024.105600
-    date: '2024-07-02'
-    awarder: Automation in Construction
-    icon: elsevier
+  - title: Blockchain Fundamentals
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2023-07-01'
+    awarder: edX
+    icon: edx
     summary: |
-      3D reconstruction plays a pivotal role in capturing the built environment's object shapes and appearances for diverse smart applications, such as indoor navigation and geometric digital twinning. Despite its significance, traditional Multi-View Stereo (MVS) techniques are ineffective in indoor environments, characterised by textureless walls, illumination variation, and other nuanced phenomena. Moreover, current learning-based MVS pipelines are often developed without considering indoor attributes and rely on costly ground truth data for performance optimisation. This paper presents the “IndoReal-MVS” dataset, a rich indoor-centric compilation reflecting real-world phenomena through advanced computer graphics. It also introduces unsupervised “IndoorMatchNet”, synergising Feature Pyramid Network (FPN) and Pyramid Flowformer (PFF) for encoding complex indoor geometries. The pipeline proposes Multi-Scale Feature loss, Superpixel-based Normal Consistency and Depth Smoothness losses, designed for indoor geometric characteristics. Experiments showcase a 192% relative improvement over the baseline model at stringent error thresholds, advancing indoor 3D reconstruction tasks.
+      Learned:
+      - Synthesize your own blockchain solutions
+      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  - title: 'Object-Oriented Programming in R'
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2023-01-21'
+    awarder: datacamp
+    icon: datacamp
+    summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
+
 
 ## About Me
 Dr. Vincent Gan is an Assistant Professor at the National University of Singapore (NUS). He was a Research Assistant Professor at Hong Kong University of Science and Technology, Visiting Lecturer at Imperial College London, and Guest Lecturer at University College London. At NUS, he established the Building Informatics and Automation Lab, dedicated to developing innovative digital methods based on robotics, advanced 3D modelling, and computational optimisation for the built environment. His current effort involves integrating robotic scanning and scan-to-BIM techniques for automated data capture and 3D digital modelling of buildings and infrastructures, along with computational optimisation for generative (re)design to refine decision-making in new construction. He is the PI and co-PI of S$2.2M in scientific research grants and industry collaboration projects. He has authored over 79 peer-reviewed scholarly articles in esteemed journals, including Automation in Construction, Computer-Aided Civil and Infrastructure Engineering, Advanced Engineering Informatics, Applied Energy, and Building and Environment. In 2023, he was recognised as one of the Top 2% Scientists Worldwide in a study by Stanford University. He has received several international awards and honours in recognition of his research, notable among these are Structural Excellence Award by HKIE, OpenBIM/OpenGIS Grand Award by buildingSmart (HK), and Best Paper Awards. 
