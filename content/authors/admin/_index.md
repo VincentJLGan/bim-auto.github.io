@@ -58,29 +58,29 @@ education:
     date_start: ''
     date_end: ''
     summary: |
-
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Research Interests: BIM, Machine Learning, Structural Optimisation
+    
+  - area: Certifications
+    institution: Massachusetts Institute of Technology, US
+    date_start: ''
+    date_end: ''
     summary: |
-      GPA: 3.8/4.0
+      Course and Program in Machine Learning and Data-driven Decision Making
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Visiting Researcher
+    institution: Purdue University, US
+    date_start: ''
+    date_end: ''
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Research Interests: BIM, Automation in Construction
+    
+  - area: MSc Civil Engineering
+    institution: Hong Kong University of Science and Technology
+    date_start: ''
+    date_end: ''
+    summary: |
+      Research Interests: Computing in Civil Engineering 
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
