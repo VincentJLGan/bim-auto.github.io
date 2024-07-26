@@ -2,6 +2,9 @@
 # Display name
 title: Vincent J.L. Gan
 
+# Name pronunciation (optional)
+name_pronunciation: 
+
 # Full name (for SEO)
 first_name: Vincent
 last_name: Gan
