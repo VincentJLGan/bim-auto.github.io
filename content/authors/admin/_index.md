@@ -2,6 +2,9 @@
 # Display name
 title: Vincent J.L. Gan
 
+# Name pronunciation (optional)
+name_pronunciation: ' '
+
 # Full name (for SEO)
 first_name: Vincent
 last_name: Gan
@@ -41,69 +44,57 @@ interests:
   - Scan-to-BIM
   - Computational Optimisation
 
-works:
-  - position: Assistant Professor, National University of Singapore (9.2020 – present)
-    company_name: Department of the Built Environment, Singapore
+work:
+  - position: Assistant Professor National University of Singapore (9.2020 – present)
+    company_name: Department of the Built Environment Singapore
     summary: |
       Recognised as Top 2% Scientists Worldwide 2023 by Stanford University
       CDE Teaching Excellence Award AY2022/23
       Deputy Director of Centre for 5G Digital Building Technology
       Deputy Director of Centre for Project and Facilities Management
     
-  - position: Associate Member, American Society of Civil Engineers (1.2019 – present)
-    company_name: 1801 Alexander Bell Drive, US
+  - position: Associate Member American Society of Civil Engineers (1.2019 – present)
+    company_name: 1801 Alexander Bell Drive US
     summary: |
       Member of ASCE Visualisation, Information Modelling and Simulation Committee
       Member of ASCE Data Sensing and Analysis Committee
 
-  - position: Affiliate Member, IEEE Technology & Engineering Management Society (12.2023-present)
+  - position: Affiliate Member IEEE Technology & Engineering Management Society (12.2023-present)
   
-  - position: Guest Lecturer, University College London (2.2023)
-    company_name: Bartlett School of Sustainable Construction, UK
+  - position: Guest Lecturer University College London (2.2023)
+    company_name: Bartlett School of Sustainable Construction UK
     summary: |
-      Guest lecture on "Digital Twins, Robotics, and Automation for Facilities Management" for UCL postgraduate course Management of Major Programmes with Digital
 
-  - position: Visiting Lecturer, Imperial College London (9.2019 - 11.2019)
-    company_name: Department of Civil and Environmental Engineering, UK
+  - position: Visiting Lecturer Imperial College London (9.2019 - 11.2019)
+    company_name: Department of Civil and Environmental Engineering UK
   
-  - position: Research Assistant Professor & Research Fellow, Hong Kong University of Science and Technology (6.2017 – 5.2020)
-    company_name: Department of Civil and Environmental Engineering, HK
+  - position: Research Assistant Professor & Research Fellow Hong Kong University of Science and Technology (6.2017 – 5.2020)
+    company_name: Department of Civil and Environmental Engineering HK
     summary: |
       Established the computational BIM research group with focus on building information modelling and structural optimisation
 
 education:
   - area: PhD Civil Engineering
     institution: Hong Kong University of Science and Technology
-    summary: |
-      Research Interests: BIM, Machine Learning, Structural Optimisation
-      Advisor: Professor & Academician Irene Lo, Professor Jack Cheng
 
   - area: Certifications
     institution: Massachusetts Institute of Technology, US
-    summary: |
-      Course and Program in Machine Learning and Data-driven Decision Making
 
   - area: Visiting Researcher
     institution: Purdue University, US
-    summary: |
-      Research Interests: BIM, Automation in Construction
   
   - area: MSc Civil Engineering
     institution: Hong Kong University of Science and Technology
-    summary: |
-      Research Interests: Computing in Civil Engineering 
-      Advisor: Professor Zongjin Li
     
 # Featured publications.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Semantic enrichment of BIM with IndoorGML for quadruped robot navigation and automated 3D scanning. 
-    Zhai, R., Zou, J., Gan, V.J.L.,* Han, X., Wang, Y., Zhao, Y. (2024) 
-    Automation in Construction. 105605.
+  - title: Semantic enrichment of BIM with IndoorGML for quadruped robot navigation and automated 3D scanning. Zhai, R., Zou, J., Gan, V.J.L.,* Han, X., Wang, Y., Zhao, Y. (2024) 
+    awarder: Automation in Construction. 105605.
     url: https://doi.org/10.1016/j.autcon.2024.105605
-    abstract: |
+    summary: |
       Planning scan routes with prior knowledge can improve scan data quality and completeness. This paper presents a BIM-enabled approach to optimize quadruped robot navigation for automated 3D scanning. The BIM data schema is enriched with IndoorGML, integrating building geometry with spatial data to establish an indoor navigation model describing multi-scale spatial topological networks. This navigation model, which includes an enhanced greedy algorithm, optimizes quadruped robot scanning positions and traversal sequences. The scan planning optimization outperforms existing heuristic algorithms in computational efficiency, coverage, and scan point count. The BIM-enabled approach is validated on ROS and in real-world conditions with a 3D LiDAR sensor integrated with a quadruped robot. The robotic scans achieve visible coverage of 70-90% of the structure, with a fluctuation of 0.006-0.021mm compared to traditional laser scans. The findings demonstrate robotic scans as a viable way of obtaining complete and accurate point clouds, reducing human effort in traditional scanning.
 
 
