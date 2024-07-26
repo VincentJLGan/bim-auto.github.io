@@ -82,8 +82,8 @@ education:
       Research Interests: Computing in Civil Engineering 
 
 work:
-  - position: Assistant Professor
-    company_name: National University of Singapore (9.2020 – present)
+  - position: Assistant Professor, National University of Singapore (9.2020 – present)
+    company_name: Department of the Built Environment, Singapore 
     company_url: ''
     company_logo: ''
     date_start: ''
@@ -98,13 +98,11 @@ work:
     company_name: 1801 Alexander Bell Drive, US 
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Member of ASCE Visualisation, Information Modelling and Simulation Committee
+      - Member of ASCE Data Sensing and Analysis Committee
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
