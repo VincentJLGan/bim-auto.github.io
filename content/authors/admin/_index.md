@@ -86,17 +86,16 @@ work:
     company_name: National University of Singapore (9.2020 – present)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: ''
     date_end: ''
-    summary: |2-
-      Responsibilities include:
+    summary: |
       - Recognised as Top 2% Scientists Worldwide 2023 by Stanford University
       - CDE Teaching Excellence Award AY2022/23
       - Deputy Director of Centre for 5G Digital Building Technology
       - Deputy Director of Centre for Project and Facilities Management
 
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Associate Member, American Society of Civil Engineers (1.2019 – present)
+    company_name: 1801 Alexander Bell Drive, US 
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
