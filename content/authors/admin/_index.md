@@ -86,8 +86,6 @@ work:
     company_name: Department of the Built Environment, Singapore 
     company_url: ''
     company_logo: ''
-    date_start: ''
-    date_end: ''
     summary: |
       - Recognised as Top 2% Scientists Worldwide 2023 by Stanford University
       - CDE Teaching Excellence Award AY2022/23
@@ -99,11 +97,29 @@ work:
     company_url: ''
     company_logo: ''
     summary: |
-      Responsibilities include:
       - Member of ASCE Visualisation, Information Modelling and Simulation Committee
       - Member of ASCE Data Sensing and Analysis Committee
+  
+  - position: Affiliate Member, IEEE Technology & Engineering Management Society (12.2023-present)
+  
+  - position: Guest Lecturer, University College London (2.2023)
+    company_name: Bartlett School of Sustainable Construction, UK
+    company_url: ''
+    company_logo: ''
+    summary: |
+      - Guest lecture on "Digital Twins, Robotics, and Automation for Facilities Management" for UCL postgraduate course Management of Major Programmes with Digital
+   
+   - position: Visiting Lecturer, Imperial College London (9.2019 - 11.2019)
+     company_name: Department of Civil and Environmental Engineering, UK
+  
+   - position: Research Assistant Professor & Research Fellow, Hong Kong University of Science and Technology (6.2017 – 5.2020)
+     company_name: Department of Civil and Environmental Engineering, HK 
+     company_url: ''
+     company_logo: ''
+     summary: |
+      - Established the computational BIM research group with focus on building information modelling and structural optimisation
 
-
+        
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
