@@ -41,7 +41,7 @@ interests:
   - Scan-to-BIM
   - Computational Optimisation
 
-current positions and professional experience:
+works:
   - position: Assistant Professor, National University of Singapore (9.2020 – present)
     company_name: Department of the Built Environment, Singapore
     summary: |
@@ -71,7 +71,7 @@ current positions and professional experience:
     summary: |
       Established the computational BIM research group with focus on building information modelling and structural optimisation
 
-education and training:
+education:
   - area: PhD Civil Engineering
     institution: Hong Kong University of Science and Technology
     summary: |
@@ -93,16 +93,12 @@ education and training:
     summary: |
       Research Interests: Computing in Civil Engineering 
       Advisor: Professor Zongjin Li
-
-# Introduction to Team.
-intro:
-Building Informatics and Automation Lab: We’re a scientific group dedicated to research and develop innovative digital methods based on robotics, advanced 3D modelling, and computational optimisation for autonomous applications in the built environment. We’re also dedicated to develop innovative pedagogy for teaching.
     
 # Featured publications.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-featured publications:
+awards:
   - title: Semantic enrichment of BIM with IndoorGML for quadruped robot navigation and automated 3D scanning. 
     Zhai, R., Zou, J., Gan, V.J.L.,* Han, X., Wang, Y., Zhao, Y. (2024) 
     Automation in Construction. 105605.
