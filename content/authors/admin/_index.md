@@ -45,8 +45,8 @@ current positions and professional experience:
   - position: Assistant Professor, National University of Singapore (9.2020 – present)
     company_name: Department of the Built Environment, Singapore
     summary: |
-      Recognised as Top 2% Scientists Worldwide 2023 by Stanford University 
-	    CDE Teaching Excellence Award AY2022/23
+      Recognised as Top 2% Scientists Worldwide 2023 by Stanford University
+      CDE Teaching Excellence Award AY2022/23
       Deputy Director of Centre for 5G Digital Building Technology
       Deputy Director of Centre for Project and Facilities Management
     
