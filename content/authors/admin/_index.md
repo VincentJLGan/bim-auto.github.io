@@ -126,14 +126,13 @@ awards:
     icon: elsevier
     summary: |
       3D reconstruction plays a pivotal role in capturing the built environment's object shapes and appearances for diverse smart applications, such as indoor navigation and geometric digital twinning. Despite its significance, traditional Multi-View Stereo (MVS) techniques are ineffective in indoor environments, characterised by textureless walls, illumination variation, and other nuanced phenomena. Moreover, current learning-based MVS pipelines are often developed without considering indoor attributes and rely on costly ground truth data for performance optimisation. This paper presents the “IndoReal-MVS” dataset, a rich indoor-centric compilation reflecting real-world phenomena through advanced computer graphics. It also introduces unsupervised “IndoorMatchNet”, synergising Feature Pyramid Network (FPN) and Pyramid Flowformer (PFF) for encoding complex indoor geometries. The pipeline proposes Multi-Scale Feature loss, Superpixel-based Normal Consistency and Depth Smoothness losses, designed for indoor geometric characteristics. Experiments showcase a 192% relative improvement over the baseline model at stringent error thresholds, advancing indoor 3D reconstruction tasks.
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+  - title: ''
+    url: 
+    date: ''
+    awarder: 
+    icon: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+     
 ---
 
 ## About Me
