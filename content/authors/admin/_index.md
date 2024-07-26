@@ -61,14 +61,14 @@ education:
       Research Interests: BIM, Machine Learning, Structural Optimisation
     
   - area: Certifications
-    institution: Massachusetts Institute of Technology, US
+    institution: Massachusetts Institute of Technology
     date_start: ''
     date_end: ''
     summary: |
       Course and Program in Machine Learning and Data-driven Decision Making
 
   - area: Visiting Researcher
-    institution: Purdue University, US
+    institution: Purdue University
     date_start: ''
     date_end: ''
     summary: |
@@ -180,5 +180,5 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Vincent Gan is an Assistant Professor at the National University of Singapore (NUS). He was a Research Assistant Professor at Hong Kong University of Science and Technology, Visiting Lecturer at Imperial College London, and Guest Lecturer at University College London. At NUS, he established the Building Informatics and Automation Lab, dedicated to developing innovative digital methods based on robotics, advanced 3D modelling, and computational optimisation for the built environment. His current effort involves integrating robotic scanning and scan-to-BIM techniques for automated data capture and 3D digital modelling of buildings and infrastructures, along with computational optimisation for generative (re)design to refine decision-making in new construction. He is the PI and co-PI of S$2.2M in scientific research grants and industry collaboration projects. He has authored over 79 peer-reviewed scholarly articles in esteemed journals, including Automation in Construction, Computer-Aided Civil and Infrastructure Engineering, Advanced Engineering Informatics, Applied Energy, and Building and Environment. In 2023, he was recognised as one of the Top 2% Scientists Worldwide in a study by Stanford University. He has received several international awards and honours in recognition of his research, notable among these are Structural Excellence Award by HKIE, OpenBIM/OpenGIS Grand Award by buildingSmart (HK), and Best Paper Awards. 
+His teaching interests encompass fundamental engineering management topics as well as advanced digitalisation such as Digital Construction and AI for the Built Environment. He is dedicated to innovative pedagogy for teaching digital methods and has received the College Teaching Excellence Award at NUS. Dr. Gan serves as Deputy Director of both the Centre for 5G Digital Building Technology and the Centre for Project and Facilities Management. His team welcomes passionate researchers. If you are seeking for research associate, research assistant, and PhD positions, feel free to reach out.
