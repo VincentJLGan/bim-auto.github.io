@@ -56,28 +56,28 @@ education:
   - area: PhD Civil Engineering
     institution: Hong Kong University of Science and Technology
     date_start: ''
-    date_end: ''
+    date_end: '2017'
     summary: |
       Research Interests: BIM, Machine Learning, Structural Optimisation
     
   - area: Certifications
     institution: Massachusetts Institute of Technology
     date_start: ''
-    date_end: ''
+    date_end: '2019'
     summary: |
       Course and Program in Machine Learning and Data-driven Decision Making
 
   - area: Visiting Researcher
     institution: Purdue University
     date_start: ''
-    date_end: ''
+    date_end: '2019'
     summary: |
       Research Interests: BIM, Automation in Construction
     
   - area: MSc Civil Engineering
     institution: Hong Kong University of Science and Technology
     date_start: ''
-    date_end: ''
+    date_end: '2013'
     summary: |
       Research Interests: Computing in Civil Engineering 
 
@@ -144,8 +144,6 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -158,7 +156,7 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Planning scan routes with prior knowledge can improve scan data quality and completeness. This paper presents a BIM-enabled approach to optimize quadruped robot navigation for automated 3D scanning. The BIM data schema is enriched with IndoorGML, integrating building geometry with spatial data to establish an indoor navigation model describing multi-scale spatial topological networks. This navigation model, which includes an enhanced greedy algorithm, optimizes quadruped robot scanning positions and traversal sequences. The scan planning optimization outperforms existing heuristic algorithms in computational efficiency, coverage, and scan point count. The BIM-enabled approach is validated on ROS and in real-world conditions with a 3D LiDAR sensor integrated with a quadruped robot. The robotic scans achieve visible coverage of 70-90% of the structure, with a fluctuation of 0.006-0.021mm compared to traditional laser scans. The findings demonstrate robotic scans as a viable way of obtaining complete and accurate point clouds, reducing human effort in traditional scanning.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
