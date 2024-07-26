@@ -108,15 +108,15 @@ work:
     company_logo: ''
     summary: |
       - Guest lecture on "Digital Twins, Robotics, and Automation for Facilities Management" for UCL postgraduate course Management of Major Programmes with Digital
-   
-   - position: Visiting Lecturer, Imperial College London (9.2019 - 11.2019)
-     company_name: Department of Civil and Environmental Engineering, UK
+
+  - position: Visiting Lecturer, Imperial College London (9.2019 - 11.2019)
+    company_name: Department of Civil and Environmental Engineering, UK
   
-   - position: Research Assistant Professor & Research Fellow, Hong Kong University of Science and Technology (6.2017 – 5.2020)
-     company_name: Department of Civil and Environmental Engineering, HK 
-     company_url: ''
-     company_logo: ''
-     summary: |
+  - position: Research Assistant Professor & Research Fellow, Hong Kong University of Science and Technology (6.2017 – 5.2020)
+    company_name: Department of Civil and Environmental Engineering, HK 
+    company_url: ''
+    company_logo: ''
+    summary: |
       - Established the computational BIM research group with focus on building information modelling and structural optimisation
 
         
