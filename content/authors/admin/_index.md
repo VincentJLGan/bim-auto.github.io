@@ -56,28 +56,28 @@ education:
   - area: PhD Civil Engineering
     institution: Hong Kong University of Science and Technology
     date_start: ''
-    date_end: ''
+    date_end: 2017
     summary: |
       Research Interests: BIM, Machine Learning, Structural Optimisation
     
   - area: Certifications
     institution: Massachusetts Institute of Technology
     date_start: ''
-    date_end: ''
+    date_end: 2019
     summary: |
       Course and Program in Machine Learning and Data-driven Decision Making
 
   - area: Visiting Researcher
     institution: Purdue University
     date_start: ''
-    date_end: ''
+    date_end: 2019
     summary: |
       Research Interests: BIM, Automation in Construction
     
   - area: MSc Civil Engineering
     institution: Hong Kong University of Science and Technology
     date_start: ''
-    date_end: ''
+    date_end: 2017
     summary: |
       Research Interests: Computing in Civil Engineering 
 
@@ -122,22 +122,6 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 # Awards.
 #   Add/remove as many awards below as you like.
