@@ -105,36 +105,19 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: Semantic enrichment of BIM with IndoorGML for quadruped robot navigation and automated 3D scanning. Zhai, R., Zou, J., Gan, V.J.L.,* Han, X., Wang, Y., Zhao, Y. 
+    url: https://doi.org/10.1016/j.autcon.2024.105605
+    date: '2024'
+    awarder: Automation in Construction
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Planning scan routes with prior knowledge can improve scan data quality and completeness. This paper presents a BIM-enabled approach to optimize quadruped robot navigation for automated 3D scanning. The BIM data schema is enriched with IndoorGML, integrating building geometry with spatial data to establish an indoor navigation model describing multi-scale spatial topological networks. This navigation model, which includes an enhanced greedy algorithm, optimizes quadruped robot scanning positions and traversal sequences. The scan planning optimization outperforms existing heuristic algorithms in computational efficiency, coverage, and scan point count. The BIM-enabled approach is validated on ROS and in real-world conditions with a 3D LiDAR sensor integrated with a quadruped robot. The robotic scans achieve visible coverage of 70-90% of the structure, with a fluctuation of 0.006-0.021mm compared to traditional laser scans. The findings demonstrate robotic scans as a viable way of obtaining complete and accurate point clouds, reducing human effort in traditional scanning.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
