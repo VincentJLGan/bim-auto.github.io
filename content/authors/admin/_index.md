@@ -82,17 +82,19 @@ education:
       Research Interests: Computing in Civil Engineering 
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Assistant Professor
+    company_name: National University of Singapore (9.2020 – present)
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Recognised as Top 2% Scientists Worldwide 2023 by Stanford University
+      - CDE Teaching Excellence Award AY2022/23
+      - Deputy Director of Centre for 5G Digital Building Technology
+      - Deputy Director of Centre for Project and Facilities Management
+
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -110,7 +112,7 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-featured publications:
+awards:
   - title: Semantic enrichment of BIM with IndoorGML for quadruped robot navigation and automated 3D scanning
     url: https://doi.org/10.1016/j.autcon.2024.105605
     date: '2024-07-11'
