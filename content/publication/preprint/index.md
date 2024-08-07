@@ -1,8 +1,13 @@
 ---
 title: "Semantic enrichment of BIM with IndoorGML for quadruped robot navigation and automated 3D scanning"
-authors: Ruoming Zhai, Jingui Zou, Vincent J.L. Gan, Xianquan Han, Yushuo Wang, Yinzhi Zhao
+authors:
+- Ruoming Zhai
+- Jingui Zou
+- Vincent J.L. Gan
+- Xianquan Han
+- Yushuo Wang
+- Yinzhi Zhao
 
-- admin
 date: "2024-07-11T00:00:00Z"
 doi: "https://doi.org/10.1016/j.autcon.2024.105605"
 
