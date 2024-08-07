@@ -4,7 +4,7 @@ authors:
 - Tao Wang
 - Vincent J.L. Gan
 
-date: "2024-07-2T00:00:00Z"
+date: "2024-07-02T00:00:00Z"
 doi: "https://doi.org/10.1016/j.autcon.2024.105600"
 
 # Schedule page publish date (NOT publication's date).
