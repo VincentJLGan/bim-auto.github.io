@@ -1,6 +1,6 @@
 ---
 title: "Semantic enrichment of BIM with IndoorGML for quadruped robot navigation and automated 3D scanning"
-authors:
+authors: 
 - Ruoming Zhai
 - Jingui Zou
 - Vincent J.L. Gan
@@ -23,13 +23,17 @@ publication_types: ["article"]
 publication: "Automation in Construction"
 publication_short: "AiC"
 
-abstract: Planning scan routes with prior knowledge can improve scan data quality and completeness. This paper presents a BIM-enabled approach to optimize quadruped robot navigation for automated 3D scanning. The BIM data schema is enriched with IndoorGML, integrating building geometry with spatial data to establish an indoor navigation model describing multi-scale spatial topological networks. This navigation model, which includes an enhanced greedy algorithm, optimizes quadruped robot scanning positions and traversal sequences. The scan planning optimization outperforms existing heuristic algorithms in computational efficiency, coverage, and scan point count. The BIM-enabled approach is validated on ROS and in real-world conditions with a 3D LiDAR sensor integrated with a quadruped robot. The robotic scans achieve visible coverage of 70-90% of the structure, with a fluctuation of 0.006-0.021mm compared to traditional laser scans. The findings demonstrate robotic scans as a viable way of obtaining complete and accurate point clouds, reducing human effort in traditional scanning.
+abstract: "Planning scan routes with prior knowledge can improve scan data quality and completeness. This paper presents a BIM-enabled approach to optimize quadruped robot navigation for automated 3D scanning. The BIM data schema is enriched with IndoorGML, integrating building geometry with spatial data to establish an indoor navigation model describing multi-scale spatial topological networks. This navigation model, which includes an enhanced greedy algorithm, optimizes quadruped robot scanning positions and traversal sequences. The scan planning optimization outperforms existing heuristic algorithms in computational efficiency, coverage, and scan point count. The BIM-enabled approach is validated on ROS and in real-world conditions with a 3D LiDAR sensor integrated with a quadruped robot. The robotic scans achieve visible coverage of 70-90% of the structure, with a fluctuation of 0.006-0.021mm compared to traditional laser scans. The findings demonstrate robotic scans as a viable way of obtaining complete and accurate point clouds, reducing human effort in traditional scanning."
 
 # Summary. An optional shortened abstract.
-summary: xxxxxxxxxx shortended abstract xxxxxxxxx.
+summary: "This paper presents a BIM-enabled approach to optimize quadruped robot navigation for automated 3D scanning using IndoorGML for improved scan data quality and completeness."
 
 tags:
-- xxxxxx input paper tags xxxxxx
+- BIM
+- IndoorGML
+- Quadruped Robot
+- 3D Scanning
+- LiDAR
 
 featured: true
 
@@ -67,11 +71,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
