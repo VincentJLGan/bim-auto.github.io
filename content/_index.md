@@ -35,8 +35,9 @@ sections:
       title: '📚 My Research Group'
       subtitle: ''
       text: |-
-        <img src="/images/group_img.png" alt="Group Image" title="Group Image">
+        ![targets](/static/images/group_img.png)
         Building Informatics and Automation Lab: We’re a scientific group dedicated to research and develop innovative digital methods based on robotics, advanced 3D modelling, and computational optimisation for autonomous applications in the built environment. We’re also dedicated to develop innovative pedagogy for teaching.
+        
         Please reach out to collaborate 😃
     design:
       columns: '1'
