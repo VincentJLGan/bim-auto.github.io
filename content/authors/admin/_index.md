@@ -125,13 +125,6 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Enhancing 3D reconstruction of textureless indoor scenes with IndoReal multi-view stereo (MVS)
-    url: https://doi.org/10.1016/j.autcon.2024.105600
-    date: '2024-07-02'
-    awarder: Automation in Construction
-    icon: elsevier
-    summary: |
-      3D reconstruction plays a pivotal role in capturing the built environment's object shapes and appearances for diverse smart applications, such as indoor navigation and geometric digital twinning. Despite its significance, traditional Multi-View Stereo (MVS) techniques are ineffective in indoor environments, characterised by textureless walls, illumination variation, and other nuanced phenomena. Moreover, current learning-based MVS pipelines are often developed without considering indoor attributes and rely on costly ground truth data for performance optimisation. This paper presents the “IndoReal-MVS” dataset, a rich indoor-centric compilation reflecting real-world phenomena through advanced computer graphics. It also introduces unsupervised “IndoorMatchNet”, synergising Feature Pyramid Network (FPN) and Pyramid Flowformer (PFF) for encoding complex indoor geometries. The pipeline proposes Multi-Scale Feature loss, Superpixel-based Normal Consistency and Depth Smoothness losses, designed for indoor geometric characteristics. Experiments showcase a 192% relative improvement over the baseline model at stringent error thresholds, advancing indoor 3D reconstruction tasks.
   - title: ''
     url: 
     date: ''
@@ -144,3 +137,6 @@ awards:
 ## About Me
 Dr. Vincent Gan is an Assistant Professor at the National University of Singapore (NUS). He was a Research Assistant Professor at Hong Kong University of Science and Technology, Visiting Lecturer at Imperial College London, and Guest Lecturer at University College London. At NUS, he established the Building Informatics and Automation Lab, dedicated to developing innovative digital methods based on robotics, advanced 3D modelling, and computational optimisation for the built environment. His current effort involves integrating robotic scanning and scan-to-BIM techniques for automated data capture and 3D digital modelling of buildings and infrastructures, along with computational optimisation for generative (re)design to refine decision-making in new construction. He is the PI and co-PI of S$2.2M in scientific research grants and industry collaboration projects. He has authored over 79 peer-reviewed scholarly articles in esteemed journals, including Automation in Construction, Computer-Aided Civil and Infrastructure Engineering, Advanced Engineering Informatics, Applied Energy, and Building and Environment. In 2023, he was recognised as one of the Top 2% Scientists Worldwide in a study by Stanford University. He has received several international awards and honours in recognition of his research, notable among these are Structural Excellence Award by HKIE, OpenBIM/OpenGIS Grand Award by buildingSmart (HK), and Best Paper Awards. 
 His teaching interests encompass fundamental engineering management topics as well as advanced digitalisation such as Digital Construction and AI for the Built Environment. He is dedicated to innovative pedagogy for teaching digital methods and has received the College Teaching Excellence Award at NUS. Dr. Gan serves as Deputy Director of both the Centre for 5G Digital Building Technology and the Centre for Project and Facilities Management. His team welcomes passionate researchers. If you are seeking for research associate, research assistant, and PhD positions, feel free to reach out.
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
