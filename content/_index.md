@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research Group'
       subtitle: ''
       text: |-
-        <img src="/group_img.png" alt="Research Group Image"/>
+        <img src="/workspaces/bim-auto.github.io/static/group_img.png" alt="Research Group Image"/>
         Building Informatics and Automation Lab: We’re a scientific group dedicated to research and develop innovative digital methods based on robotics, advanced 3D modelling, and computational optimisation for autonomous applications in the built environment. We’re also dedicated to develop innovative pedagogy for teaching.
         
         Please reach out to collaborate 😃
