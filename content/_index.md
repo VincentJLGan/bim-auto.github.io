@@ -32,12 +32,11 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Research Group'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        ![Research Group](static/group img.png)
+        Building Informatics and Automation Lab: We’re a scientific group dedicated to research and develop innovative digital methods based on robotics, advanced 3D modelling, and computational optimisation for autonomous applications in the built environment. We’re also dedicated to develop innovative pedagogy for teaching.
         
         Please reach out to collaborate 😃
     design:
