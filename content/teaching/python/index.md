@@ -1,16 +1,17 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
+title: Teaching in NUS
+summary: xxxxxxxx
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - Python
+  - Infrastructure and Project Management
+  - Project & Facility Management
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+I had the privilege of teaching four courses as principal lecturers and course coordinators. These courses include PF1103/IPM1103-Digital Construction, PF2108/IPM2104-Project Cost Management, PF3205-Advanced Measurement, and PF3211-AI for Built Environment, along with tutoring PF1101-Fundamentals of Project Management. These courses cover a range of fundamental engineering management topics with advanced BIM and AI aspects relevant to my expertise. As part of my effort to support our department’s new IPM (Infrastructure and Project Management) programme, I am involved in reviewing the syllabus of PF courses (Project & Facility Management) and tasked to revamp IPM1103 and IPM2104 to keep the new curriculum relevant.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
