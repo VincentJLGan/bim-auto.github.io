@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research Group (NUS)'
+      title: '📚 My Research Group in NUS'
       subtitle: ''
       text: |-
         ![Research Group](images/group_img.jpg)
